@@ -3,7 +3,7 @@ package conv_test
 import (
 	"testing"
 
-	"github.com/gopub/conv"
+	"github.com/golangpub/conv"
 	"github.com/stretchr/testify/assert"
 )
 

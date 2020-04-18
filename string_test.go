@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gopub/conv"
+	"github.com/golangpub/conv"
 	"github.com/stretchr/testify/assert"
 )
 

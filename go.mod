@@ -1,4 +1,4 @@
-module github.com/gopub/conv
+module github.com/golangpub/conv
 
 go 1.14
 
